@@ -6,5 +6,7 @@ Approach: Use classification algorithms like Logistic Regression, Decision Trees
 
 Key Features:
 ● Feature engineering from financial history.
+
 ● Model accuracy assessment using metrics like Precision, Recall, F1-Score, ROC-AUC.
+
 ● Dataset could include: income, debts, payment history, etc.
